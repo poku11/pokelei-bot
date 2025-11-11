@@ -1,0 +1,5 @@
+streamlit
+httpx[http2]
+lxml
+pandas
+beautifulsoup4
